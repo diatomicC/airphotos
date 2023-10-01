@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "105156544109",
+    "firebase_url": "https://photomemories-e22bd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "photomemories-e22bd",
+    "storage_bucket": "photomemories-e22bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105156544109:android:ad7c4a0353b1163219a164",
+        "android_client_info": {
+          "package_name": "com.hackathon.airphoto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi1sDdrmvIOmr3RjLwAjbjc_cMDMtgi0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
